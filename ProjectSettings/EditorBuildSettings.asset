@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: d445bb46c8197e3499930e7d30b46451
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
@@ -17,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DoorsScene.unity
     guid: 3a99cf0b45da88c40aef9e5773797114
+  - enabled: 1
+    path: Assets/Scenes/RiddleScene.unity
+    guid: 41fd326f22c45644eb078717cb6f19e3
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: 1abe7e6e64c49ac499480b3a31e298ce
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
